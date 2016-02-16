@@ -1,0 +1,25 @@
+{
+  name: 'mathjax-ghost',
+  version: '0.1.0',
+  homepage: 'https://github.com/justathoughtor2',
+  authors: [
+    'Jesse P Bohanan <thoughthaven@gmail.com>'
+  ],
+  description: 'Adds MathJax support to Ghost editor',
+  main: 'mathjax.js',
+  keywords: [
+    'MathJax',
+    'TeX',
+    'LaTeX',
+    'Ghost',
+    'Showdown'
+  ],
+  license: 'GPLv3',
+  ignore: [
+    '**/.*',
+    'node_modules',
+    'bower_components',
+    'test',
+    'tests'
+  ]
+}
